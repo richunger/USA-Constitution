@@ -43,3 +43,12 @@ purpose shall consist of two-thirds of the whole number of Senators, and a
 majority of the whole number shall be necessary to a choice. But no person
 constitutionally ineligible to the office of President shall be eligible to
 that of Vice-President of the United States.
+
+## Amendment XIII.
+
+**Section 1.** Neither slavery nor involuntary servitude, except as a
+punishment for crime whereof the party shall have been duly convicted, shall
+exist within the United States, or any place subject to their jurisdiction.
+
+**Section 2.** Congress shall have power to enforce this article by appropriate
+legislation.
