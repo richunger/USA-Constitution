@@ -126,3 +126,19 @@ vacancies by election as the legislature may direct.
 
 This amendment shall not be so construed as to affect the election or term of
 any Senator chosen before it becomes valid as part of the Constitution.
+
+## Amendment XVIII.
+
+**Section 1.** After one year from the ratification of this article the
+manufacture, sale, or transportation of intoxicating liquors within, the
+importation thereof into, or the exportation thereof from the United States and
+all the territory subject to the jurisdiction thereof for beverage purposes is
+hereby prohibited.
+
+**Section 2.** The Congress and the several States shall have concurrent power
+to enforce this article by appropriate legislation.
+
+**Section 3.** This article shall be inoperative unless it shall have been
+ratified as an amendment to the Constitution by the legislatures of the several
+States, as provided in the Constitution, within seven years from the date of
+the submission hereof to the States by the Congress.
