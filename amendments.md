@@ -142,3 +142,10 @@ to enforce this article by appropriate legislation.
 ratified as an amendment to the Constitution by the legislatures of the several
 States, as provided in the Constitution, within seven years from the date of
 the submission hereof to the States by the Congress.
+
+## Amendment XIX.
+
+The right of citizens of the United States to vote shall not be denied or
+abridged by the United States or by any State on account of sex.
+
+Congress shall have power to enforce this article by appropriate legislation.
