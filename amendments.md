@@ -286,3 +286,12 @@ two-thirds vote of both Houses that the President is unable to discharge the
 powers and duties of his office, the Vice President shall continue to discharge
 the same as Acting President; otherwise, the President shall resume the powers
 and duties of his office.
+
+## Amendment XXVI.
+
+**Section 1.** The right of citizens of the United States, who are eighteen
+years of age or older, to vote shall not be denied or abridged by the United
+States or by any State on account of age.
+
+**Section 2.** The Congress shall have the power to enforce this article by
+appropriate legislation.
